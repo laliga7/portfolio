@@ -1,0 +1,109 @@
+body{
+    background-color: #fad643;
+}
+/******background color and pictures******/
+.div1{
+    background-image: url(../images/presentation.png);
+}
+.div2{
+    background-color: #7bdff2;
+}
+.div3{
+    background-image: url(../images/education.png);
+    background-size: 20%;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    padding: 5px;
+    margin: 0 1rem 0 1rem;
+    color: #758bfd;
+    font-weight: bold;
+    font-family: Calibri;
+    font-size: 23px;
+}
+/*****floatbox styles*****/
+.box{
+    max-width: 550px;
+    width: 85%;
+    height: 80px;
+    padding: 1rem;
+    margin: -5rem;
+    background-color: #a78a7f;
+    color: white;
+    display: inline-block; 
+}
+.posiiton{
+    position: relative;
+    top: -700px;
+    right: -200px;
+}
+.box2{
+    max-width:1300px;
+    width: 85%;
+    height: 80px;
+    padding: 1rem;
+    margin: -5rem;
+    background-color: #f20089;
+    color: #eeeeee;
+    border-radius: 20px;
+}
+.posiiton2{
+    position: relative;
+    top: -470px;
+    right: -80px;
+}
+/*****Style the div***/
+.div-style{
+    padding: 7rem 0 8rem 0;
+    /* opacity: 70%; */
+    border-top: white 1px solid;
+    border-bottom: white 1px solid;
+    margin-top: 0;
+}
+.section-style{
+    display: inline-flex;
+    flex-wrap: wrap;
+    padding: 0;
+}
+.content-wrap{
+    border-radius: 10px;
+    display: inline-flexbox;
+    padding: 0 3rem 0 3rem;
+    margin: 0 0 0 2rem;
+    font-size: 20px;
+    background-color: #ff7700;
+}
+
+/*****footer*****/
+a{
+    padding: 5px;
+    background-color: #32936F;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    display: inline-block;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+a:hover{
+    background-color: #3A86FF;
+    color: white;
+    padding: 0.5rem;
+}
+a{
+    border: 3px solid #43aa8b;
+    background-color: #90be6d;
+    width: 8rem;
+    margin: -20rem 1rem 20rem 1rem;
+}
+a:hover{
+    background-color: #52b69a;
+    color: white;
+}
+nav{
+    display: flex;
+    margin: 2rem 0 0 2rem;
+}

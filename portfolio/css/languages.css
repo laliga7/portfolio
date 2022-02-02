@@ -1,0 +1,98 @@
+
+body{
+    background-image: url(../images/languages.png);
+    background-repeat: no-repeat;
+    background-color: transparent;
+    background-size: 45%;
+}
+h1{
+    font-size: 7rem;
+    border-radius: 2rem;
+    margin: 2rem 0 0 0;
+    padding: 0;
+    text-align: center;
+}
+.right-align{
+    text-align: right;    
+}
+.box{
+    max-width: 550px;
+    width: 85%;
+    height: 130px;
+    padding: 1rem;
+    margin: -5rem;
+    background-color: #f94144;
+    color: white;
+    display: inline-block;    
+}
+.position{
+    position: relative;
+    top: 100px;
+    right: 400px;
+}
+
+.box2{
+    max-width: 500px;
+    width: 85%;
+    height: 480px;
+    padding: 1rem;
+    margin: -5rem;
+    background: #d9ed92;
+    border-radius: 6rem;
+    color: white;
+    font-size: 35px;
+    display: inline-block;  
+}
+.position2{
+    position: relative;
+    top: 220px;
+    right: 400px;
+}
+.box3{
+    max-width: 450px;
+    width: 85%;
+    height: 40px;
+    padding: 1rem;
+    margin: -5rem;
+    background: #8ecae6;
+    color: white;
+    font-size: 30px;
+    border-radius: 7.5px;
+}
+.position3{
+    position: relative;
+    top: 350px;
+    right: -150px;
+}
+ul{
+    display: flex;
+    text-align: left;
+    padding: 0;
+    justify-content: space-between;
+    flex-direction: column;
+    color: white;
+    padding-left: 2rem;
+    font-family: Calibri;
+}
+li{
+    display: inline-flex;
+    font-size: 1.8rem;
+    border-bottom: 1px solid white;
+    padding: 1.5rem;
+}
+ul p{
+    margin: 0;
+}
+a{
+    padding: 10px;
+    font-size: 30px;
+    background-color: #457b9d;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    font-family: Calibri;
+}
+a:hover{
+    background-color: #ffb703;
+    padding: 0.8rem;
+}

@@ -1,0 +1,109 @@
+h1{
+    font-size: 45px;
+}
+.box{
+    max-width: 550px;
+    width: 85%;
+    height: 80px;
+    padding: 1rem;
+    margin: -5rem;
+    background-color: #463f3a;
+    color: white;
+    display: inline-block; 
+}
+
+.posiiton{
+    position: relative;
+    top: -700px;
+    right: -200px;
+}
+
+.box2{
+    max-width: 500px;
+    width: 85%;
+    height: 410px;
+    padding: 1rem;
+    margin: -5rem;
+    background: #ffff3f;
+    border-radius: 0.5rem;
+    color: #127475;
+    font-size: 20px;
+    display: inline-block;  
+}
+.posiiton2{
+    position: relative;
+    top: -520px;
+    right: -100px;
+}
+
+
+
+.box3{
+    max-width: 450px;
+    width: 85%;
+    height: 40px;
+    padding: 1rem;
+    margin: -5rem;
+    background: #ffb600;
+    color: white;
+    font-size: 30px;
+    border-radius: 1rem;
+}
+.posiiton3{
+    position: relative;
+    top: -450px;
+    right: -150px;
+}
+
+.box4{
+    max-width: 500px;
+    width: 85%;
+    height: 250px;
+    padding: 1rem;
+    margin: -5rem;
+    background: #caffbf;
+    border-radius: 0.5rem;
+    color: #f35b04;
+    font-size: 20px;
+    display: inline-block;  
+}
+.posiiton4{
+    position: relative;
+    top: -720px;
+    right: -700px;
+}
+
+.style-ul{
+    line-height: 28px;
+}
+
+.div1{
+    background-image: url(../images/achievement.png);
+}
+.div2{
+    background-image: url(../images/graph.png);
+}
+.div3{
+    background-image: url(../images/success.png);
+    
+}
+.div-style{
+    padding: 7rem 0 8rem 0;
+    opacity: 85%;
+    border-top: orangered 1px solid;
+    border-bottom: orangered 1px solid;
+    margin-top: 0;
+}
+a{
+    background-color: #df2935;
+    color: #ede7e3;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+a:hover{
+    background-color: #fb5607;
+    color: white;
+    padding: 1rem;
+}

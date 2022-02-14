@@ -9,8 +9,9 @@ h1{
     background-color: #00F5D4;
     border-radius: 48px;
 }
-/*body*/
+/*************************body****************/
 h2,h3,h4,h5,h6{
+    /* style h2,3,4,5,6 combined*/
     font-family: Calibri;
     font-size: 20px;
     border-top: 2rem;
@@ -64,7 +65,7 @@ p{
     color: #562c2c;
 }
 
-/*footer*/
+/*********************** footer **************/
 footer a{
     border: 3px solid #ff5400;
     background-color: #ff002b;

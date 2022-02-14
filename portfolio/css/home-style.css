@@ -10,16 +10,17 @@ h1{
 }
 /***********body************/
 a{
+    /* styling the link buttons*/
     margin-bottom: 12px;
     width: 125px;
     display: flex;
-    background-color: whitesmoke;
     background-color: #F15BB5;
     color: white;
     text-decoration: none;
     padding: 10px;
     border-radius: 4px;
 }
+/* hover action */
 a:hover{
     background-color: #FEE440;
     color: black;
@@ -30,6 +31,7 @@ a:hover{
     width: 50%;
 }
 .grid-view{
+    /* display style */
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
@@ -43,6 +45,7 @@ img{
     max-width:400px;
     width: 100%;
 }
+/* icon style */
 i{
     background-color: inherit;
     padding-right: 8px;

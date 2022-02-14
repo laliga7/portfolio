@@ -1,4 +1,8 @@
-/**/
+/*
+background-color: #E83f6f
+inner background-color: #ffbf00
+button/link color #32936F
+*/
 *{
     font-family: sans-serif;
     background-color: #E83f6f;
@@ -9,6 +13,8 @@ h1{
     font-size: 50px;
     margin-top: -10px;
 }
+
+/*button/link*/
 a{
     text-decoration: none;
     color: white;
@@ -16,6 +22,7 @@ a{
     padding: 11px;
     border-radius: 6px;
 }
+/*-- link hover action --*/
 a:hover{
     background-color: #2274A5;
     padding: 1rem;

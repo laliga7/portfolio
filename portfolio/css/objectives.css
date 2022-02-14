@@ -6,6 +6,7 @@ h1{
     margin: 0 auto;
     font-size: 4rem;
 }
+/****************** background colors styles*****************/
 .div1{
     background-color: #F038FF;
 }
@@ -22,6 +23,7 @@ h1{
     padding: 5rem 0 5.8rem 0;
 }
 
+/******** h1 style *********/
 .box{
     max-width: 300px;
     width: 85%;
@@ -38,6 +40,7 @@ h1{
     right: -120px;
 }
 
+/********** pharagraph style *************/
 .box2{
     max-width: 900px;
     width: 85%;
@@ -55,6 +58,7 @@ h1{
     right: -200px;
 }
 
+/**************** footer style ********************/
 .box3{
     max-width: 350px;
     width: 85%;

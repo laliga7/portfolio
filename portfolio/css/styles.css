@@ -11,7 +11,8 @@ h1{
     color: black;
     background-color: #ffbf00;
     font-size: 50px;
-    margin-top: -10px;
+    margin: 0 auto;
+    padding: 1rem;
 }
 
 /*button/link*/
@@ -19,8 +20,8 @@ a{
     text-decoration: none;
     color: white;
     background-color: #32936F;
-    padding: 11px;
     border-radius: 6px;
+    padding: 11px;
 }
 /*-- link hover action --*/
 a:hover{
@@ -33,7 +34,6 @@ a:hover{
     text-align: center;
     background-color: #ffbf00;
     border-radius: 25px;
-    margin: 0 8rem 0 8rem;
-    margin-top: 15rem;
-    padding: 5rem 0 5rem 0;
+    margin: 14rem 5rem;
+    padding: 3rem 0;
 }
